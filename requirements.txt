@@ -1,0 +1,15 @@
+streamlit
+streamlit_option_menu
+st_clickable_images
+pygame
+people_also_ask
+tensorflow
+gTTS
+translate
+opencv-python
+pyttsx3
+mediapipe
+pyautogui
+SpeechRecognition
+ultralytics
+pyaudio

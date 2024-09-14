@@ -1,0 +1,56 @@
+{
+    "2939225da4f3f8f83140d8a6b5b9a773": {
+        "page_script_hash": "2939225da4f3f8f83140d8a6b5b9a773",
+        "page_name": "Home_Page",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\Home_Page.py"
+    },
+    "a679f544dcaa45e7f06c31e5b70734f5": {
+        "page_script_hash": "a679f544dcaa45e7f06c31e5b70734f5",
+        "page_name": "AI_Report_Gen",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\AI Report Gen.py"
+    },
+    "7c51a4235396e26e108e667d67e9a457": {
+        "page_script_hash": "7c51a4235396e26e108e667d67e9a457",
+        "page_name": "Dermotologist",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\Dermotologist.py"
+    },
+    "be7e7870afd021c45dd60c408fe0a600": {
+        "page_script_hash": "be7e7870afd021c45dd60c408fe0a600",
+        "page_name": "Pharma_informatics",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\Pharma_informatics.py"
+    },
+    "5d946e921b0bc82392d88ae497f1efdc": {
+        "page_script_hash": "5d946e921b0bc82392d88ae497f1efdc",
+        "page_name": "Procted_therapist",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\Procted_therapist.py"
+    },
+    "c20ce734e2e4ce733f16780805b69805": {
+        "page_script_hash": "c20ce734e2e4ce733f16780805b69805",
+        "page_name": "symptom_disease",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\symptom_disease.py"
+    },
+    "563023a586c2aaf5c4136f06d9816fd5": {
+        "page_script_hash": "563023a586c2aaf5c4136f06d9816fd5",
+        "page_name": "Voice_Assistant",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\Voice_Assistant.py"
+    },
+    "a5db5ab79bb7079270522fed6712fac5": {
+        "page_script_hash": "a5db5ab79bb7079270522fed6712fac5",
+        "page_name": "X-ray_image_analysis",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\X-ray_image_analysis.py"
+    },
+    "bef9ea9452b682b140a0d05baf43c1de": {
+        "page_script_hash": "bef9ea9452b682b140a0d05baf43c1de",
+        "page_name": "Your_Summary",
+        "icon": "",
+        "script_path": "E:\\VS CODE EXAMPLE\\Digital Docter\\pages\\Your_Summary.py"
+    }
+}
